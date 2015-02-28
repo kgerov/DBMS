@@ -1,0 +1,2 @@
+Transact-SQL is a database manipulation language. It is an extension to SQL and is supported by MS SQL Server. It is used for stored 
+procedures, function and triggers. T-SQL extends SQL with a few additional features.

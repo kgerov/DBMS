@@ -1,0 +1,5 @@
+SQL: Structured Query Language. SQL is a computer language used to communicate with a database
+DML: Data manipulation language. DML is a set of commands that are used to interact with a database by selecting, inserting, deleting and updating data.
+DDL: Data definition language. DDL is a set of commands used for defining data structures in database schemas.
+
+Most important commands: SELECT, ORDER BY, GROUP BY, JOIN, WHERE, HAVING, CREATE TABLE
